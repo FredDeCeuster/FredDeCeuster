@@ -52,7 +52,7 @@ github_username: FredDeCeuster # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: FredDeCeuster # your Twitter handle
 linkedin_username: frederik-de-ceuster # your LinkedIn user name
-scholar_userid: cB_5RssAAAAJ # your Google Scholar ID
+scholar_userid: # your Google Scholar ID
 orcid_id: 0000-0001-5887-8498 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -181,8 +181,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: De Ceuster
+  first_name: [Frederik, F.]
 
   style: apa
   locale: en
