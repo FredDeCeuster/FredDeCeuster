@@ -1,18 +1,16 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Decin":
+  - firstname: ["Leen", "L.", "L. D.", "Leen Decin"]
+    url: https://fys.kuleuven.be/ster/staff/senior-staff/leen-decin
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Yates":
+  - firstname: ["Jeremy", "J.", "J. Y.", "Jeremy Yates"]
+    url: https://www.ucl.ac.uk/physics-astronomy/people/dr-jeremy-yates
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Boyle":
+  - firstname: ["Peter", "P.", "P. B.", "Peter Boyle"]
+    url: https://www2.ph.ed.ac.uk/~paboyle/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Hetherington":
+  - firstname: ["James", "J.", "J. H.", "James Hetherington"]
+    url: https://www.turing.ac.uk/people/honorary-fellows/james-hetherington

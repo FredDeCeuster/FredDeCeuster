@@ -2,10 +2,28 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching responsibilities at KU Leuven.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<h5>Lecturer:</h5>
+<ul>
+    <li>
+        B-KUL-G0N29B: "Algemene natuurkunde I: mechanica", <br>
+        (General Physics I: mechanics), Fall 2021, (substituting for Prof. Dr. Leen Decin).
+    </li>
+</ul>
 
-Organize your courses by years, topics, or universities, however you like!
+
+<h5>Teaching assistant:</h5>
+
+<ul>
+    <li>
+        B-KUL-G0N29B: "Algemene natuurkunde I: mechanica", <br>
+        (General Physics I: mechanics), Fall 2017, 2019, 2020.
+    </li>
+    <li>
+        B-KUL-G0N94B: "Algemene natuurkunde II: golven, elektromagnetisme en optica", <br>
+        (General Physics II: waves, electromagnetism, and optics), Spring 2015, 2016.
+    </li>
+</ul>
