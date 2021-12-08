@@ -8,8 +8,7 @@ profile:
   align: right
   image: FrederikDeCeuster_2.png
   address: >
-    <p>Celestijnenlaan 200 D </p>
-    <p>Office 04.37</p>
+    <p>Office 200D - 04.37</p>
     <p>Institute of Astronomy</p>
     <p>KU Leuven, Belgium</p>
 
