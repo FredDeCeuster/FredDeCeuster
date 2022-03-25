@@ -8,6 +8,9 @@ nav: true
 
 <ul>
     <li>
+        Seminar at the Department of Physics and Astronomy, Ghent University (March 24, 2022): Approximate Radiative Transfer;
+    </li>
+    <li>
         IAU Symposium 366: The Origin of Outflows in Evolved Stars (November 1, 2021; online); invited training session: 3D Radiative Transfer and Synthetic Observations with Magritte (<a href="https://youtu.be/_OpJPvhJvuQ">video</a>);
     </li>
     <li>
