@@ -18,7 +18,7 @@ nav: true
     talk: Beyond the Treachery of Images: 3D Radiative Transfer with Magritte (<a href="https://youtu.be/4n2Bie8OAPQ?t=5370">video</a>) ;
     </li>
     <li>
-        Seminar at the Institute of Astronomy, KU Leuven (February 26, 2021), together with Silke Maes and Jolien Malfait: Hydro/radiative modelling of AGB wind-companion interactions (<a href="https://youtu.be/NkCCMwd4hSs">video</a>).
+        Seminar at the Institute of Astronomy, KU Leuven (February 26, 2021; online), together with Silke Maes and Jolien Malfait: Hydro/radiative modelling of AGB wind-companion interactions (<a href="https://youtu.be/NkCCMwd4hSs">video</a>).
     </li>
     <li>
         Seminar at the Institute of Astronomy, KU Leuven (October 10, 2019): Magritte, a modern software library for 3D radiative transfer.
