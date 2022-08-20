@@ -22,8 +22,8 @@ I'm Frederik De Ceuster, a <strong>postdoctoral researcher</strong> in the group
 My research interests encompass a broad range of topics at the interface between mathematics, physics, and engineering.
 Currently, I am developing efficient methods for <strong>radiative transfer</strong> to compare complex theoretical models with high-resolution astronomical observations.
 
-For a gentle intorduction to my research, see e.g. this [#ThesisThread](https://twitter.com/FredDeCeuster/status/1446114019421552641).
+For a gentle introduction to my research, see e.g. this [#ThesisThread](https://twitter.com/FredDeCeuster/status/1446114019421552641).
 
-I obtained a <strong>PhD</strong> in computational astrophysics form [University College London](https://www.ucl.ac.uk/), working with [Revd. Dr. Jeremy Yates](https://www.ucl.ac.uk/physics-astronomy/people/dr-jeremy-yates), [Prof. Dr. Peter Boyle](https://www2.ph.ed.ac.uk/~paboyle/), and [Prof. Dr. James Hetherington](https://www.turing.ac.uk/people/honorary-fellows/james-hetherington). Here, I started developing [Magritte](/projects/magritte/): a software library for 3D radiative transfer and synthetic obsevations.
+I obtained a <strong>PhD</strong> in computational astrophysics from [University College London](https://www.ucl.ac.uk/), working with [Revd. Dr. Jeremy Yates](https://www.ucl.ac.uk/physics-astronomy/people/dr-jeremy-yates), [Prof. Dr. Peter Boyle](https://www2.ph.ed.ac.uk/~paboyle/), and [Prof. Dr. James Hetherington](https://www.turing.ac.uk/people/honorary-fellows/james-hetherington). Here, I started developing [Magritte](/projects/magritte/): a software library for 3D radiative transfer and synthetic obsevations.
 
 Prior to that, I obtained a <strong>BSc</strong> and <strong>MSc</strong> in Physics from [KU Leuven](https://www.kuleuven.be/kuleuven/).
