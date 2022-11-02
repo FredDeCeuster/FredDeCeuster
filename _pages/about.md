@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Frederik De Ceuster, a <strong>postdoctoral researcher</strong> in the group lead by [Prof. Dr. Leen Decin](https://fys.kuleuven.be/ster/staff/senior-staff/leen-decin) at the [Institute of Astronomy](https://fys.kuleuven.be/ster) at [KU Leuven](https://www.kuleuven.be/kuleuven/).
+I'm Frederik De Ceuster, a <strong>postdoctoral research fellow</strong> of the [Research Foundation - Flanders (FWO)](https://www.fwo.be/en/), working in the group lead by [Prof. Dr. Leen Decin](https://fys.kuleuven.be/ster/staff/senior-staff/leen-decin) at the [Institute of Astronomy](https://fys.kuleuven.be/ster) at [KU Leuven](https://www.kuleuven.be/kuleuven/).
 
 My research interests encompass a broad range of topics at the interface between mathematics, physics, and engineering.
 Currently, I am developing efficient methods for <strong>radiative transfer</strong> to compare complex theoretical models with high-resolution astronomical observations.
