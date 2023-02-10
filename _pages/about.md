@@ -21,7 +21,7 @@ I'm a <strong>postdoctoral research fellow</strong> of the [Research Foundation 
 
 Our research revolves around modelling <strong>evolved stars</strong> as they enrich our Universe with the chemicals they produce.
 This includes <strong>3D hydrodynamics</strong>, <strong>chemical kinetics</strong>, and <strong>radiative transfer</strong> modelling.
-As observations reveal ever more intricate structures (see e.g. [Decin et al. 2020](https://doi.org/10.1126/science.abb1229)) our models become ever more complex, and it becomes increasingly hard to compare them to observations.
+As observations reveal ever more intricate structures (see e.g. [Decin et al. 2020](https://doi.org/10.1126/science.abb1229)) our models become ever more complex, and it becomes increasingly difficult to compare them to observations.
 In our computational research team, we tackle this problem is several different ways, with:
 <ul>
   <li><strong>Probabilistic 3D reconstruction</strong> of observations, to create data-augmented models that can account for the observed complexities;</li>
