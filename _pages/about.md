@@ -17,16 +17,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Frederik De Ceuster, a <strong>postdoctoral research fellow</strong> of the [Research Foundation - Flanders (FWO)](https://www.fwo.be/en/), leading the computational research division in the group of [Prof. Dr. Leen Decin](https://fys.kuleuven.be/ster/staff/senior-staff/leen-decin) at the [Institute of Astronomy](https://fys.kuleuven.be/ster) at [KU Leuven](https://www.kuleuven.be/kuleuven/).
+I'm a <strong>postdoctoral research fellow</strong> of the [Research Foundation - Flanders (FWO)](https://www.fwo.be/en/), leading the computational research division in the group of [Prof. Dr. Leen Decin](https://fys.kuleuven.be/ster/staff/senior-staff/leen-decin) at the [Institute of Astronomy](https://fys.kuleuven.be/ster) ([KU Leuven](https://www.kuleuven.be/kuleuven/)).
 
-Our research revolves around modelling the <strong>environments of evolved stars</strong>.
+Our research revolves around modelling <strong>evolved stars</strong> as they enrich our Universe with the chemicals they produce.
 This includes <strong>3D hydrodynamics</strong>, <strong>chemical kinetics</strong>, and <strong>radiative transfer</strong> modelling.
 As observations reveal ever more intricate structures (see e.g. [Decin et al. 2020](https://doi.org/10.1126/science.abb1229)) our models become ever more complex, and it becomes increasingly hard to compare them to observations.
-Our team tackles this problem is several different ways:
+In our computational research team, we tackle this problem is several different ways, with:
 <ul>
-  <li>Probabilistic 3D reconstruction of observations, to create data-augmented models that can account for the observed complexities;</li>
-  <li>Fast surrogate models, using machine learning to train fast and quantifiably approximate models to by-pass expensive modelling steps, such as chemical kinetics and radiative transfer;</li>
-  <li>Efficient use of high-performance computing resources.</li>
+  <li><strong>Probabilistic 3D reconstruction</strong> of observations, to create data-augmented models that can account for the observed complexities;</li>
+  <li><strong>Fast surrogate models</strong>, using machine learning to train fast and quantifiably approximate models to by-pass expensive modelling steps, such as chemical kinetics and radiative transfer;</li>
+  <li>Efficient use of <strong>high-performance computing</strong> resources, developing solutions that can leverage multi-node many-core systems as well as (multi-)GPU systems. </li>
 </ul>
 
 My personal research interests encompass a broad range of topics at the interface between mathematics, physics, and engineering.
