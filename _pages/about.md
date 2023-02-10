@@ -19,8 +19,8 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a <strong>postdoctoral research fellow</strong> of the [Research Foundation - Flanders (FWO)](https://www.fwo.be/en/), leading the computational research division in the group of [Prof. Dr. Leen Decin](https://fys.kuleuven.be/ster/staff/senior-staff/leen-decin) at the [Institute of Astronomy](https://fys.kuleuven.be/ster) ([KU Leuven](https://www.kuleuven.be/kuleuven/)).
 
-Our research revolves around modelling <strong>evolved stars</strong> as they enrich our Universe with the chemicals they produce.
-This includes <strong>3D hydrodynamics</strong>, <strong>chemical kinetics</strong>, and <strong>radiative transfer</strong> modelling.
+Our research revolves around modelling <strong>evolved stars</strong> as they shed their outer layers, enriching our Universe with the chemicals they produce, providing the building blocks for future generations of stars, planets, and perhaps even life.
+This involves <strong>3D hydrodynamics</strong>, <strong>chemical kinetics</strong>, and <strong>radiative transfer</strong> modelling.
 As observations reveal ever more intricate structures (see e.g. [Decin et al. 2020](https://doi.org/10.1126/science.abb1229)) our models become ever more complex, and it becomes increasingly difficult to compare them to observations.
 In our computational research team, we tackle this problem is several different ways, with:
 <ul>
