@@ -7,6 +7,10 @@ nav: true
 ---
 
 <ul>
+    
+    <li>
+        Talk at the ATOMIUM 2023 winter meeting, Meudon (France),  (March 8, 2023): Probabilistic 3D reconstruction of spectral line images;
+    </li>
     <li>
         Seminar at the Department of Physics and Astronomy, Ghent University (March 24, 2022): Approximate Radiative Transfer;
     </li>
