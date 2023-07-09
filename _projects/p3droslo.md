@@ -8,6 +8,6 @@ category: work
 ---
 
 <strong>p3droslo</strong> is an open-source software
-library for 3D reconstruction of spectral line observations, developed at [KU Leuven](https://www.kuleuven.be/english/) (Belgium).
+library for 3D reconstruction of spectral line observations.
 
 For more info, see our presentation at the <a href="https://freddeceuster.github.io/p3droslo/">EAS Annual Meeting 2023 in Krakow, Poland</a>. 
