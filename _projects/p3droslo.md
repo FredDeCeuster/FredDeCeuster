@@ -2,7 +2,7 @@
 layout: page
 title: p3droslo
 description: Probabilistic 3D Reconstruction of Spectral Line Observations
-img: assets/img/deprojection.png
+img: assets/img/deprojection.jpeg
 importance: 1
 category: work
 ---
