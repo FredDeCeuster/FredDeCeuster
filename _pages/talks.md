@@ -7,7 +7,9 @@ nav: true
 ---
 
 <ul>
-    
+    <li>
+        European Astronomical Society (EAS) Annual Meeting 2023, Krakow (Poland),  (July 13, 2023), contributed talk: Probabilistic 3D reconstruction of the circumstellar environments of evolved stars (<a href="https://freddeceuster.github.io/p3droslo/">slides</a>);
+    </li>
     <li>
         Talk at the ATOMIUM 2023 winter meeting, Meudon (France),  (March 8, 2023): Probabilistic 3D reconstruction of spectral line images;
     </li>
