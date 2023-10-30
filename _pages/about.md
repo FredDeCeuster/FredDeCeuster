@@ -34,6 +34,6 @@ Currently, I mainly focus on developing efficient methods for 3D reconstruction 
 
 I obtained a <strong>PhD</strong> in computational astrophysics from [University College London](https://www.ucl.ac.uk/), working with [Revd. Dr. Jeremy Yates](https://www.ucl.ac.uk/physics-astronomy/people/dr-jeremy-yates), [Prof. Dr. Peter Boyle](https://www2.ph.ed.ac.uk/~paboyle/), and [Prof. Dr. James Hetherington](https://www.turing.ac.uk/people/honorary-fellows/james-hetherington). Here, I started developing [Magritte](/projects/magritte/): a software library for 3D radiative transfer and synthetic obsevations.
 
-For a gentle introduction to my PhD research, see e.g. this [#ThesisThread](https://twitter.com/FredDeCeuster/status/1446114019421552641).
+For a gentle introduction to my research, see e.g. this [interview with Kennismakers (Dutch only)](https://kennismakers.be/mijn-job-als-sterrenkundige) or this [#ThesisThread](https://twitter.com/FredDeCeuster/status/1446114019421552641).
 
 Prior to that, I obtained a <strong>BSc</strong> and <strong>MSc</strong> in Physics from [KU Leuven](https://www.kuleuven.be/kuleuven/).
