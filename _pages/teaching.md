@@ -10,7 +10,7 @@ nav: true
 <ul>
     <li>
         B-KUL-G0N29B: "Algemene natuurkunde I: mechanica", <br>
-        (General Physics I: mechanics), Fall 2021, (substituting for Prof. Dr. Leen Decin).
+        (General Physics I: mechanics), Fall 2021, 2022, 2023, (substituting for Prof. Dr. Leen Decin).
     </li>
 </ul>
 
