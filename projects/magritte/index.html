@@ -12,7 +12,7 @@
   Frederik  De Ceuster
 
 
-  | blog
+  | Magritte
 
 </title>
 <meta name="description" content="Frederik De Ceuster's personal webpage.
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🟣</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="https://freddeceuster.github.io//blog/">
+<link rel="canonical" href="https://freddeceuster.github.io//projects/magritte/">
 
 
 <!-- Dark Mode -->
@@ -80,18 +80,14 @@
           </li>
           
           <!-- Blog -->
-          <!-- <li class="nav-item active">
+          <!-- <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               blog
-              
-              <span class="sr-only">(current)</span>
               
             </a>
           </li> -->
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -164,8 +160,8 @@
           
           
           
-            <div class = "toggle-container">
-              <a id = "light-toggle">
+            <div class="toggle-container">
+              <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
               </a>
@@ -184,18 +180,49 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>Research log</h1>
-    <h2>Accessible Research Notes</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Magritte</h1>
+    <p class="post-description">A modern software library for <br> 3D Radiative Transfer and <br> Synthetic Observations</p>
+  </header>
 
+  <article>
+    <p><strong>Magritte</strong> is an open-source software
+library for simulating 3D radiation transport and synthetic observations,
+developed at <a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener noreferrer">University College London</a> (UCL, UK)
+and <a href="https://www.kuleuven.be/english/" target="_blank" rel="noopener noreferrer">KU Leuven</a> (Belgium).</p>
 
-  <ul class="post-list">
-    
-  </ul>
+<ul>
+    <li>
+        The <strong>source code</strong> can be found at <strong><a href="https://github.com/Magritte-code/Magritte" target="_blank" rel="noopener noreferrer">github.com/Magritte-code/Magritte</a></strong>.
+    </li>
+    <li>
+        The <strong>documentation</strong> can be found at <strong><a href="https://magritte.readthedocs.io/en/stable/" target="_blank" rel="noopener noreferrer">magritte.readthedocs.io</a></strong>.
+    </li>
+</ul>
 
-  
+<p>Magritte is currently mainly used for post-processing hydrodynamical simulations by
+creating synthetic observations, but the techniques could also be applied more general.
+It can either be used as a Python package or as a C++ library.
+Magritte uses a deterministic ray-tracer with a formal solver that currently focusses on
+line radiative transfer (see
+<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1812D/abstract" target="_blank" rel="noopener noreferrer">De Ceuster et al. 2019</a>
+for more details).</p>
 
+<p>The plot below shows synthetic observations made with
+Magritte at three different inclinations for a hydro simulation of the stellar wind around
+an asymptotic giant branch (AGB) star as it is perturbed by a companion.</p>
+
+<video width="100%" controls="" playsinline="" autoplay="" muted="" loop="">
+  <source src="/assets/mov/movie.webm"></source>
+  Your browser does not support the video tag.
+</video>
+
+<p>The hydrodynamics model was created by Jan Bolte using <a href="http://amrvac.org/" target="_blank" rel="noopener noreferrer">MPI-AMRVAC</a>. See
+the <a href="https://magritte.readthedocs.io/en/stable/1_examples/index.html" target="_blank" rel="noopener noreferrer">examples</a>
+in the documentation to learn how these synthetic observations were created
+with Magritte.</p>
+
+  </article>
 
 </div>
 
@@ -206,8 +233,8 @@
     
 <footer class="fixed-bottom">
   <div class="container mt-0">
-    &copy; Copyright 2023 Frederik  De Ceuster.
-    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+    © Copyright 2023 Frederik  De Ceuster.
+    Powered by <a href="http://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme.
 
     
     
