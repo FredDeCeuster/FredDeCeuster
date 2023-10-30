@@ -30,7 +30,7 @@ In our computational research team, we tackle this problem is several different 
 </ul>
 
 My personal research interests encompass a broad range of topics at the interface between mathematics, physics, and engineering.
-Currently, I am mainly focussed on developing efficient methods for 3D reconstruction of astronomical observations to compare with our complex theoretical models, using variational Bayesian methods and probabilistic numerics.
+Currently, I mainly focus on developing efficient methods for 3D reconstruction of astronomical observations to compare with our complex theoretical models, using variational Bayesian methods and probabilistic numerics.
 
 I obtained a <strong>PhD</strong> in computational astrophysics from [University College London](https://www.ucl.ac.uk/), working with [Revd. Dr. Jeremy Yates](https://www.ucl.ac.uk/physics-astronomy/people/dr-jeremy-yates), [Prof. Dr. Peter Boyle](https://www2.ph.ed.ac.uk/~paboyle/), and [Prof. Dr. James Hetherington](https://www.turing.ac.uk/people/honorary-fellows/james-hetherington). Here, I started developing [Magritte](/projects/magritte/): a software library for 3D radiative transfer and synthetic obsevations.
 
