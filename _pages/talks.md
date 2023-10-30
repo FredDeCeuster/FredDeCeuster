@@ -8,6 +8,12 @@ nav: true
 
 <ul>
     <li>
+        Talk at the ATOMIUM 2023 fall meeting, Leuven, (November 25, 2023): Probabilistic 3D Reconstruction of Spectral Line Observations with p3droslo;
+    </li>
+    <li>
+        Vlaams Supercomputer Centrum (VSC) users day (November 24, 2023; Brussels); invited talk: Scientific Programming in the Age of AI, together with Geert Jan Bex and Frédéric Wautelet;
+    </li>
+    <li>
         European Astronomical Society (EAS) Annual Meeting 2023, Krakow (Poland),  (July 13, 2023), contributed talk: Probabilistic 3D reconstruction of the circumstellar environments of evolved stars (<a href="https://freddeceuster.github.io/p3droslo/">slides</a>);
     </li>
     <li>
